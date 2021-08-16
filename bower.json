@@ -1,0 +1,7 @@
+{
+    "name": "Tomatu_-_Organic_Foods_HTML5_Template_-_themeforest", "version": "1.0.0", "main": "path/to/main.css", "ignore": [
+        ".jshintrc", "**/*.txt"
+    ], "dependencies": {
+    }, "devDependencies": {
+    }
+}
